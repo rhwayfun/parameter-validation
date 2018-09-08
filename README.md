@@ -1,7 +1,7 @@
 # parameter-validation
 [![Build Status](https://travis-ci.org/rhwayfun/parameter-validation.svg?branch=master)](https://travis-ci.org/rhwayfun/parameter-validation)
 [![Coverage Status](https://coveralls.io/repos/github/rhwayfun/parameter-validation/badge.svg?branch=master)](https://coveralls.io/github/rhwayfun/parameter-validation?branch=master)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.rhwayfun/spring-boot-rocketmq-starter/badge.svg)](http://search.maven.org/#artifactdetails%7Cio.github.rhwayfun%7Cparameter-validation%7C0.0.1-beta%7Cjar)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.rhwayfun/parameter-validation/badge.svg)](http://search.maven.org/#artifactdetails%7Cio.github.rhwayfun%7Cparameter-validation%7C0.0.1-beta%7Cjar)
 [![License](https://img.shields.io/badge/license-Apache%202.0-orange.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 A common parameter validation tool, make validation easier. Parameter verification is spread throughout our daily development. 
